@@ -1,0 +1,56 @@
+contract.name()
+contract
+const tokenCount = await contract.tokenCount()
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const tokencount = await nftInstance.tokenCount()
+}
+    console.log(`Token ID ${tokenId} owned by ${owner}`);
+    const owner = await nftInstance.ownerOf(tokenId);
+    const tokenId = await nftInstance.tokenByIndex(i);
+for (let i = 0; i < totalSupply; i++) {
+nftInstance
+const nftInstance = await nftContract.attach("0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+nftContract
+const nftContract = await ethers.getContractFactory("NFT")
+tokenCount
+const tokenCount = await nft.tokenCount()
+const totalCount = await nft.totalCount()
+const totalSupply = await nft.totalCount()
+const totalSupply = await nft.totalSupply()
+nft
+const nft = await NFT.attach('0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512')
+const NFT = await ethers.getContractFactory('NFT')
+await ethers.provider.getNetwork()
+const NFT = await ethers.getContractFactory('NFT')
+await ethers.provider.getNetwork()
+exit()
+exit
+token
+const token = await c1.tokenCount()
+c_name1
+const c_name1 = await c1.name()
+c1
+const c1 = await ethers.getContractAt("NFT","0xa513E6E4b8f2a923D98304ec87F64353C4D5C853")
+const c_name = await c.name()
+c
+const c = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const name = await contract.name()
+const tokenCount3 = await contract.tokenCount()
+const tokenCount2 = await contract.tokenCount()
+tokenCount2
+const tokenCount2 = await contract.tokenCount
+tokenCount1
+const tokenCount1 = await contract.tokenCount()
+let tokenCount = await contarct.tokenCount();
+tokenCount
+const tokenCount = await contract.tokenCount()
+const tokenCount = await contarct.tokenCount()
+contract
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const contract = await ethers.getContractAt("nft","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+exit()
+exit
+npx hardhat compile
+Object.keys(artifacts)
+> Object.keys(artifacts)
